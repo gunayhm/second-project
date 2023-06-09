@@ -19,5 +19,9 @@ public class Main {
         return resultStringBuilder.toString();
     }
 
+    public static char[] encrypt(String text){
+        return text.toCharArray();
+    }
+
 
 }
